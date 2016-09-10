@@ -16,5 +16,5 @@
 
 ## SUBSCRIPTIONS
 - Email Before Download (Collect Email before download file) -> [Email Before Download](https://wordpress.org/plugins/email-before-download/) | **It's need another 2 Pluigns to work properly**
--- Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
--- Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+- 1. Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
+- 2. Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
