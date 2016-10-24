@@ -13,13 +13,11 @@
 - Write Custom CSS without touching Theme Stylesheet -> [Simple Custom CSS](https://wordpress.org/plugins/simple-custom-css)
 - Delete multiple menu items (li) just a single click -> [Quick remove menu item](https://wordpress.org/plugins/quick-remove-menu-item/)
 
-## MEMBERSHIP
-- Paid Member Subscriptions (FREE, Easy and light-weight) -> [Paid Member Subscriptions](https://wordpress.org/plugins/paid-member-subscriptions/)
-
-## SUBSCRIPTIONS
-- Email Before Download (Collect Email before download file) -> [Email Before Download](https://wordpress.org/plugins/email-before-download/) | **It's need another 2 Pluigns to work properly**
-- 1. Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
-- 2. Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+## MEMBERSHIP / SUBSCRIPTIONS
+* Paid Member Subscriptions (FREE, Easy and light-weight) -> [Paid Member Subscriptions](https://wordpress.org/plugins/paid-member-subscriptions/)
+* Email Before Download (Collect Email before download file) -> [Email Before Download](https://wordpress.org/plugins/email-before-download/) | **It's need another 2 Pluigns to work properly**
+	* 1. Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
+	* 2. Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 
 ## WOOCOMMERCE
 - Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
