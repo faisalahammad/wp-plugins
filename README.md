@@ -35,3 +35,4 @@
 
 ## EMAIL CAPTURE 
 * Mailchimp Cool Popup -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
+* Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
