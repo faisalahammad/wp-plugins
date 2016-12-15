@@ -13,12 +13,14 @@
 * Write Custom CSS without touching Theme Stylesheet -> [Simple Custom CSS](https://wordpress.org/plugins/simple-custom-css)
 * Duplicate existing menu -> [Duplicate Menu](https://wordpress.org/plugins/duplicate-menu/)
 * Delete multiple menu items (li) just a single click -> [Quick remove menu item](https://wordpress.org/plugins/quick-remove-menu-item/)
+* Google Analytics -> [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
 
 ## MEMBERSHIP / SUBSCRIPTIONS
 * Paid Member Subscriptions (FREE, Easy and light-weight) -> [Paid Member Subscriptions](https://wordpress.org/plugins/paid-member-subscriptions/)
 * Email Before Download (Collect Email before download file) -> [Email Before Download](https://wordpress.org/plugins/email-before-download/) | **It's need another 2 Pluigns to work properly**
 	* Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
 	* Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+* Private website / Restricted site -> [Registered Users Only](https://wordpress.org/plugins/registered-users-only/)
 
 ## WOOCOMMERCE
 * Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
@@ -36,6 +38,10 @@
 ## EMAIL CAPTURE 
 * Mailchimp Cool Popup -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
+* Mobile Friendly, Easy to use, Tutorial -> [PopupAlly](https://wordpress.org/plugins/popupally/)
 
 ## Ads Control
 * Anti AdBlocker / Disable Ads Blocker -> [Better Stop AdBlock](https://et.wordpress.org/plugins/better-stop-adblock/)
+
+## VISUAL COMPOSER
+* Visual Line, Line creator between Row-Column -> [VisualLine Visual Composer Timeline Addons Pack](https://codecanyon.net/item/visualline-visual-composer-timeline-addons-pack/12147228)
