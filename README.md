@@ -3,6 +3,7 @@
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
 * Email Pop Up, Social Media Likes, Contact Us -> [SumoMe](https://wordpress.org/plugins/sumome/)
+* Fix Social Media sharing Title, Description, Image -> [Facebook Open Graph, Google+ and Twitter Card Tags](https://wordpress.org/plugins/wonderm00ns-simple-facebook-open-graph-tags/)
 
 ## SLIDER
 * Carousel (Text, Image, Video) -> [OWL Carousel Slider](https://wordpress.org/plugins/lgx-owl-carousel/)
@@ -39,9 +40,17 @@
 * Mailchimp Cool Popup -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
 * Mobile Friendly, Easy to use, Tutorial -> [PopupAlly](https://wordpress.org/plugins/popupally/)
+* Register user auto add to MC list -> [MailChimp User Sync](https://wordpress.org/plugins/mailchimp-sync/)
 
 ## Ads Control
 * Anti AdBlocker / Disable Ads Blocker -> [Better Stop AdBlock](https://et.wordpress.org/plugins/better-stop-adblock/)
 
 ## VISUAL COMPOSER
 * Visual Line, Line creator between Row-Column -> [VisualLine Visual Composer Timeline Addons Pack](https://codecanyon.net/item/visualline-visual-composer-timeline-addons-pack/12147228)
+
+## Gallery
+* Responsive, Pretty Gallery plugin -> [Foo Gallery](https://wordpress.org/plugins/foogallery/)
+
+## SOCIAL FEED 
+* SoundCloud Music Player, Playlist -> [SoundCloud Shortcode](https://wordpress.org/plugins/soundcloud-shortcode/)
+* Instagram image grid -> [Instagram Widget by WPZOOM](https://wordpress.org/plugins/instagram-widget-by-wpzoom/)
