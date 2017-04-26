@@ -54,3 +54,6 @@
 ## SOCIAL FEED 
 * SoundCloud Music Player, Playlist -> [SoundCloud Shortcode](https://wordpress.org/plugins/soundcloud-shortcode/)
 * Instagram image grid -> [Instagram Widget by WPZOOM](https://wordpress.org/plugins/instagram-widget-by-wpzoom/)
+
+## BOOKING / APPOINTMENT
+* Appointment for specific time -> [Appointment Calendar](https://wordpress.org/plugins/appointment-calendar/)
