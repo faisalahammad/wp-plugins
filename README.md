@@ -15,6 +15,7 @@
 * Duplicate existing menu -> [Duplicate Menu](https://wordpress.org/plugins/duplicate-menu/)
 * Delete multiple menu items (li) just a single click -> [Quick remove menu item](https://wordpress.org/plugins/quick-remove-menu-item/)
 * Google Analytics -> [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
+* Post Sorting Customize -> [Post Types Order](https://wordpress.org/plugins/post-types-order/)
 
 ## MEMBERSHIP / SUBSCRIPTIONS
 * Paid Member Subscriptions (FREE, Easy and light-weight) -> [Paid Member Subscriptions](https://wordpress.org/plugins/paid-member-subscriptions/)
@@ -26,6 +27,7 @@
 ## WOOCOMMERCE
 * Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
 * Collect Donation (Simple Setting) -> [Donations for WooCommerce](https://wordpress.org/plugins/donations-for-woocommerce/)
+* Country base shipping cost -> [WooCommerce Table Rate Shipping by Mangohour](https://wordpress.org/plugins/table-rate-shipping-for-woocommerce/)
 
 ## COMING SOON
 * EZP Coming Soon Page (Easy to configure) -> [EZP Coming Soon Page](https://wordpress.org/plugins/easy-pie-coming-soon/)
@@ -37,7 +39,6 @@
 * Fix CSS & JS issue -> [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/)
 
 ## EMAIL CAPTURE 
-* Mailchimp Cool Popup -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
 * Mobile Friendly, Easy to use, Tutorial -> [PopupAlly](https://wordpress.org/plugins/popupally/)
 * Register user auto add to MC list -> [MailChimp User Sync](https://wordpress.org/plugins/mailchimp-sync/)
@@ -57,3 +58,7 @@
 
 ## BOOKING / APPOINTMENT
 * Appointment for specific time -> [Appointment Calendar](https://wordpress.org/plugins/appointment-calendar/)
+
+## COUNT DOWN TIMER
+* Basic Count Down (2 Variation) -> [Countdown Wpdevart](https://wordpress.org/plugins/widget-countdown/)
+
