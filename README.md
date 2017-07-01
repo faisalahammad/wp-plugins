@@ -43,6 +43,10 @@
 * Google Analytics -> [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
 * Post Sorting Customize -> [Post Types Order](https://wordpress.org/plugins/post-types-order/)
 
+## UTILITES
+- Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/) 
+
+
 ## Ads Control
 * Anti AdBlocker / Disable Ads Blocker -> [Better Stop AdBlock](https://et.wordpress.org/plugins/better-stop-adblock/)
 
