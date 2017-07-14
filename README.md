@@ -16,6 +16,7 @@
 * Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
 * Collect Donation (Simple Setting) -> [Donations for WooCommerce](https://wordpress.org/plugins/donations-for-woocommerce/)
 * Country base shipping cost -> [WooCommerce Table Rate Shipping by Mangohour](https://wordpress.org/plugins/table-rate-shipping-for-woocommerce/)
+* PayPal Credit Card Payment -> [WooCommerce PayPal Pro Payment Gateway](https://wordpress.org/plugins/woocommerce-paypal-pro-payment-gateway/)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
