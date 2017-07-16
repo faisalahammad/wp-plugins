@@ -59,6 +59,7 @@
 
 ## BOOKING / APPOINTMENT
 * Appointment for Specific Time -> [Appointment Calendar](https://wordpress.org/plugins/appointment-calendar/)
+* Easy Event Calendar Plugin -> [The Events Calendar](https://wordpress.org/plugins/the-events-calendar/)
 
 ## COUNT DOWN TIMER
 * Basic Count Down (2 Variation) -> [Countdown Wpdevart](https://wordpress.org/plugins/widget-countdown/)
