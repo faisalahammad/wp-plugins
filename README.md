@@ -17,6 +17,7 @@
 * Collect Donation (Simple Setting) -> [Donations for WooCommerce](https://wordpress.org/plugins/donations-for-woocommerce/)
 * Country base shipping cost -> [WooCommerce Table Rate Shipping by Mangohour](https://wordpress.org/plugins/table-rate-shipping-for-woocommerce/)
 * PayPal Credit Card Payment -> [WooCommerce PayPal Pro Payment Gateway](https://wordpress.org/plugins/woocommerce-paypal-pro-payment-gateway/)
+* Referal Program - Free Coupon, Discount & Free Products -> [Refer A Friend for WooCommerce by WPGens](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
@@ -28,8 +29,8 @@
 ## SPEED OPTIMIZER
 * WP Cache plugin -> [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/
 )
-* WP Cache plugin -> [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
-* Fix CSS & JS issue -> [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/)
+* WP Simple Cache plugin -> [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+* Fix CSS & JS Above The Fold issue -> [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/)
 
 ## EMAIL CAPTURE 
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
