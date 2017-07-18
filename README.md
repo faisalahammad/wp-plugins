@@ -10,7 +10,7 @@
 * Email Before Download (Collect Email before download file) -> [Email Before Download](https://wordpress.org/plugins/email-before-download/) | **It's need another 2 Pluigns to work properly**
 	* Download Monitor -> [Download Monitor](https://wordpress.org/plugins/download-monitor/)
 	* Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
-* Private website / Restricted site -> [Registered Users Only](https://wordpress.org/plugins/registered-users-only/)
+* Private / Restricted website -> [Registered Users Only](https://wordpress.org/plugins/registered-users-only/)
 
 ## WOOCOMMERCE
 * Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
@@ -18,6 +18,7 @@
 * Country base shipping cost -> [WooCommerce Table Rate Shipping by Mangohour](https://wordpress.org/plugins/table-rate-shipping-for-woocommerce/)
 * PayPal Credit Card Payment -> [WooCommerce PayPal Pro Payment Gateway](https://wordpress.org/plugins/woocommerce-paypal-pro-payment-gateway/)
 * Referal Program - Free Coupon, Discount & Free Products -> [Refer A Friend for WooCommerce by WPGens](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/)
+* Redirect after add products into Cart -> [WooCommerce Add to Cart Custom Redirect](https://wordpress.org/plugins/woocommerce-add-to-cart-custom-redirect/)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
