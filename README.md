@@ -32,6 +32,7 @@
 )
 * WP Simple Cache plugin -> [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 * Fix CSS & JS Above The Fold issue -> [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/)
+* Combain JS files & much more -> [WP Rocket Footer JS](https://wordpress.org/plugins/rocket-footer-js/) <small>// This plugin require WP ROCKET (Paid) plugin.</small>
 
 ## EMAIL CAPTURE 
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
