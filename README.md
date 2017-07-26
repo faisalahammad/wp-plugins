@@ -39,6 +39,7 @@
 * Mobile Friendly, Easy to use, Tutorial -> [PopupAlly](https://wordpress.org/plugins/popupally/)
 * Register user auto add to MC list -> [MailChimp User Sync](https://wordpress.org/plugins/mailchimp-sync/)
 * Build Custom MailChimp Form -> [Easy Forms for MailChimp](https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/)
+* Modern Sidebar Form box -> [Mailchimp Forms by Optin Cat](https://wordpress.org/plugins/mailchimp-wp/)
 
 ## TOOLS
 * Write Custom CSS without touching Theme Stylesheet -> [Simple Custom CSS](https://wordpress.org/plugins/simple-custom-css)
