@@ -19,6 +19,8 @@
 * PayPal Credit Card Payment -> [WooCommerce PayPal Pro Payment Gateway](https://wordpress.org/plugins/woocommerce-paypal-pro-payment-gateway/)
 * Referal Program - Free Coupon, Discount & Free Products -> [Refer A Friend for WooCommerce by WPGens](https://wordpress.org/plugins/refer-a-friend-for-woocommerce-by-wpgens/)
 * Redirect after add products into Cart -> [WooCommerce Add to Cart Custom Redirect](https://wordpress.org/plugins/woocommerce-add-to-cart-custom-redirect/)
+* Extra fields on Checkout Page -> [WooCommerce Checkout Manager](https://wordpress.org/plugins/woocommerce-checkout-manager/)
+* Order Filter by Products -> [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
@@ -47,6 +49,7 @@
 * Delete multiple menu items (li) just a single click -> [Quick remove menu item](https://wordpress.org/plugins/quick-remove-menu-item/)
 * Google Analytics -> [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
 * Post Sorting Customize -> [Post Types Order](https://wordpress.org/plugins/post-types-order/)
+* Restrict Specific Email Provider, Username & Email -> [Restrict User Registration](https://wordpress.org/plugins/restrict-user-registration/)
 
 ## UTILITES
 - Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/) 
