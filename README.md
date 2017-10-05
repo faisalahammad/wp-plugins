@@ -74,4 +74,4 @@
 
 ## COMING SOON
 * EZP Coming Soon Page (Easy to configure) -> [EZP Coming Soon Page](https://wordpress.org/plugins/easy-pie-coming-soon/)
-
+* Under Construction (Multiple Cool Design) -> [Under Construction](https://wordpress.org/plugins/under-construction-page/)
