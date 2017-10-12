@@ -55,7 +55,9 @@
 * Content Locker (Grab Like, Share & Email) -> [Content Locker](https://wordpress.org/plugins/content-locker/)
 
 ## UTILITES
-* Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/) 
+* Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/)
+* Fix CF7 date formate -> [Contact Form 7 Datepicker](https://wordpress.org/plugins/contact-form-7-datepicker/)
+* CF7 Country list -> [Listo](https://wordpress.org/plugins/listo/)
 
 
 ## Ads Control
