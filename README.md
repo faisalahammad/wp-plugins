@@ -12,6 +12,7 @@
 	* Contact Form 7 -> [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 * Private / Restricted website -> [Registered Users Only](https://wordpress.org/plugins/registered-users-only/)
 * Support / Ticket system -> [WP Support Plus Responsive Ticket System](https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/)
+* Content Locker (Grab Like, Share & Email) -> [Content Locker](https://wordpress.org/plugins/content-locker/)
 
 ## WOOCOMMERCE
 * Custom Product Tab (Description, Review) -> [YIKES Custom Product Tabs for WooCommerce](https://wordpress.org/plugins/yikes-inc-easy-custom-woocommerce-product-tabs/)
@@ -37,6 +38,7 @@
 * WP Simple Cache plugin -> [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
 * Fix CSS & JS Above The Fold issue -> [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/)
 * Combain JS files & much more -> [WP Rocket Footer JS](https://wordpress.org/plugins/rocket-footer-js/) <small>// This plugin require WP ROCKET (Paid) plugin.</small>
+* JCH Optimize (PRO version is more powerful) -> [JCH Optimize](https://wordpress.org/plugins/jch-optimize/)
 
 ## EMAIL CAPTURE 
 * Yeloni Exit Popup (Simple and Modern) -> [Yeloni Exit Popup](https://wordpress.org/plugins/yeloni-free-exit-popup/)
@@ -52,7 +54,7 @@
 * Google Analytics -> [Google Analytics Dashboard for WP](https://wordpress.org/plugins/google-analytics-dashboard-for-wp/)
 * Post Sorting Customize -> [Post Types Order](https://wordpress.org/plugins/post-types-order/)
 * Restrict Specific Email Provider, Username & Email -> [Restrict User Registration](https://wordpress.org/plugins/restrict-user-registration/)
-* Content Locker (Grab Like, Share & Email) -> [Content Locker](https://wordpress.org/plugins/content-locker/)
+* Search & Replace in DB -> [Search and Replace](https://wordpress.org/plugins/search-and-replace/)
 
 ## UTILITES
 * Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/)
