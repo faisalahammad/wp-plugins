@@ -31,6 +31,7 @@
 * Fix Social Media sharing Title, Description, Image -> [Facebook Open Graph, Google+ and Twitter Card Tags](https://wordpress.org/plugins/wonderm00ns-simple-facebook-open-graph-tags/)
 * SoundCloud Music Player, Playlist -> [SoundCloud Shortcode](https://wordpress.org/plugins/soundcloud-shortcode/)
 * Instagram Image Grid -> [Instagram Widget by WPZOOM](https://wordpress.org/plugins/instagram-widget-by-wpzoom/)
+* Pinterest Responsive Feed -> [Easy Pinterest for WordPress](https://wordpress.org/plugins/easy-pinterest/)
 
 ## SPEED OPTIMIZER
 * WP Cache plugin -> [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/
@@ -60,6 +61,7 @@
 * Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/)
 * Fix CF7 date formate -> [Contact Form 7 Datepicker](https://wordpress.org/plugins/contact-form-7-datepicker/)
 * CF7 Country list -> [Listo](https://wordpress.org/plugins/listo/)
+* Nice & Customizable related posts -> [Related Posts](https://wordpress.org/plugins/yuzo-related-post/)
 
 
 ## Ads Control
