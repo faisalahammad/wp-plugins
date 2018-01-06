@@ -24,6 +24,7 @@
 * Extra fields on Checkout Page -> [WooCommerce Checkout Manager](https://wordpress.org/plugins/woocommerce-checkout-manager/)
 * Order Filter by Products -> [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/)
 * Smart Sales Reporters -> [Smart Reporter for WooCommerce and WP eCommerce](https://wordpress.org/plugins/smart-reporter-for-wp-e-commerce/)
+* Products filter (Various method) -> [WooCommerce Products Filter](https://wordpress.org/plugins/woocommerce-products-filter/)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
