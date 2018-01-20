@@ -57,6 +57,7 @@
 * Post Sorting Customize -> [Post Types Order](https://wordpress.org/plugins/post-types-order/)
 * Restrict Specific Email Provider, Username & Email -> [Restrict User Registration](https://wordpress.org/plugins/restrict-user-registration/)
 * Search & Replace in DB -> [Search and Replace](https://wordpress.org/plugins/search-and-replace/)
+* Remove Date & other meta from Search Engine -> [WP Meta and Date Remover](https://wordpress.org/plugins/wp-meta-and-date-remover/)
 
 ## UTILITES
 * Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/)
