@@ -25,6 +25,7 @@
 * Order Filter by Products -> [WooCommerce Filter Orders by Product](https://wordpress.org/plugins/woocommerce-filter-orders-by-product/)
 * Smart Sales Reporters -> [Smart Reporter for WooCommerce and WP eCommerce](https://wordpress.org/plugins/smart-reporter-for-wp-e-commerce/)
 * Products filter (Various method) -> [WooCommerce Products Filter](https://wordpress.org/plugins/woocommerce-products-filter/)
+* Categories or other conditions base shipping -> [Advanced Flat Rate Shipping For WooCommerce Pro](https://codecanyon.net/item/advance-flat-rate-shipping-method-for-woocommerce/15831725)
 
 ## SOCIAL PLUGINS
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
