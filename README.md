@@ -59,6 +59,7 @@
 * Restrict Specific Email Provider, Username & Email -> [Restrict User Registration](https://wordpress.org/plugins/restrict-user-registration/)
 * Search & Replace in DB -> [Search and Replace](https://wordpress.org/plugins/search-and-replace/)
 * Remove Date & other meta from Search Engine -> [WP Meta and Date Remover](https://wordpress.org/plugins/wp-meta-and-date-remover/)
+* Super easy Sticky Menu -> [Sticky Menu](https://wordpress.org/plugins/sticky-menu-or-anything-on-scroll/)
 
 ## UTILITES
 * Cookie Notification -> [Simple Cookie Notification Bar](https://wordpress.org/plugins/simple-cookie-notification-bar/)
