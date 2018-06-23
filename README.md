@@ -74,8 +74,9 @@
 ## VISUAL COMPOSER
 * Visual Line, Line creator between Row-Column -> [VisualLine Visual Composer Timeline Addons Pack](https://codecanyon.net/item/visualline-visual-composer-timeline-addons-pack/12147228)
 
-## Gallery
+## GALLERY
 * Responsive, Pretty Gallery plugin -> [Foo Gallery](https://wordpress.org/plugins/foogallery/)
+* Upload Unsplash FREE stock photos -> [Instant Images – One Click Unsplash Uploads](https://wordpress.org/plugins/instant-images/)
 
 ## BOOKING / APPOINTMENT
 * Appointment for Specific Time -> [Appointment Calendar](https://wordpress.org/plugins/appointment-calendar/)
