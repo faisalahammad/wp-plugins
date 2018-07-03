@@ -66,6 +66,8 @@
 * Fix CF7 date formate -> [Contact Form 7 Datepicker](https://wordpress.org/plugins/contact-form-7-datepicker/)
 * CF7 Country list -> [Listo](https://wordpress.org/plugins/listo/)
 * Nice & Customizable related posts -> [Related Posts](https://wordpress.org/plugins/yuzo-related-post/)
+* Unused Images delete -> [Media Cleaner](https://wordpress.org/plugins/media-cleaner/)
+* Bulk delete Pending/Spam Comments -> [Delete Pending Comments](https://wordpress.org/plugins/delete-pending-comments/)
 
 
 ## Ads Control
