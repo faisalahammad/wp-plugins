@@ -80,6 +80,7 @@
 * Anti AdBlocker / Disable Ads Blocker -> [Better Stop AdBlock](https://et.wordpress.org/plugins/better-stop-adblock/)
 * Basic Count Down (2 Variation) -> [Countdown Wpdevart](https://wordpress.org/plugins/widget-countdown/)
 * Age Verification -> [Age Gate](https://wordpress.org/plugins/age-gate/)
+* Stop Emails Going to Spam folder -> [Stop WP Emails Going to Spam](https://wordpress.org/plugins/stop-wp-emails-going-to-spam/)
 
 ## SECURITY :closed_lock_with_key: :unlock:
 * ReCaptch all in one -> [Advanced noCaptcha & invisible Captcha (v2 & v3)](https://wordpress.org/plugins/advanced-nocaptcha-recaptcha/)
