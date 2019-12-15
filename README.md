@@ -33,6 +33,7 @@
 * Product Base Shipping Charge -> [YITH Product Shipping for WooCommerce](https://yithemes.com/themes/plugins/yith-product-shipping-for-woocommerce/)
 * Message on Cart/Checkout/Single Product -> [YITH WooCommerce Cart Messages](https://wordpress.org/plugins/yith-woocommerce-cart-messages/)
 * Product suggestion on CART -> [Products Suggestions for WooCommerce](https://wordpress.org/plugins/cart-products-suggestions-for-woocommerce/)
+* Specific Product Add to Cart Custom Redirect -> [WooCommerce Add to Cart Custom Redirect](https://wordpress.org/plugins/woocommerce-add-to-cart-custom-redirect/)
 * WooCommerce Subscription -> [YITH WooCommerce Subscription](https://wordpress.org/plugins/yith-woocommerce-subscription/) or [WooCommerce Subscription](https://woocommerce.com/products/woocommerce-subscriptions/)
 
 ## SOCIAL PLUGINS :arrows_counterclockwise: :love_letter:
