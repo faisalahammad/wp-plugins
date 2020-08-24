@@ -34,7 +34,7 @@
 * Message on Cart/Checkout/Single Product -> [YITH WooCommerce Cart Messages](https://wordpress.org/plugins/yith-woocommerce-cart-messages/)
 * Product suggestion on CART -> [Products Suggestions for WooCommerce](https://wordpress.org/plugins/cart-products-suggestions-for-woocommerce/)
 * Specific Product Add to Cart Custom Redirect -> [WooCommerce Add to Cart Custom Redirect](https://wordpress.org/plugins/woocommerce-add-to-cart-custom-redirect/)
-* WooCommerce Subscription -> [YITH WooCommerce Subscription](https://wordpress.org/plugins/yith-woocommerce-subscription/) or [WooCommerce Subscription](https://woocommerce.com/products/woocommerce-subscriptions/)
+* Per Product Shipping -> [Innozilla Per Product Shipping WooCommerce](https://wordpress.org/plugins/innozilla-per-product-shipping-woocommerce/)
 
 ## SOCIAL PLUGINS :arrows_counterclockwise: :love_letter:
 * Facebook Like box with POP UP -> [Easy Facebook Like Box](https://wordpress.org/plugins/easy-facebook-likebox/)
