@@ -82,6 +82,7 @@
 * Basic Count Down (2 Variation) -> [Countdown Wpdevart](https://wordpress.org/plugins/widget-countdown/)
 * Age Verification -> [Age Gate](https://wordpress.org/plugins/age-gate/)
 * Stop Emails Going to Spam folder -> [Stop WP Emails Going to Spam](https://wordpress.org/plugins/stop-wp-emails-going-to-spam/)
+* Export Specific/Custom Pages -> [Export Custom Pages](https://wordpress.org/plugins/export-custom-pages/)
 
 ## SECURITY :closed_lock_with_key: :unlock:
 * ReCaptch all in one -> [Advanced noCaptcha & invisible Captcha (v2 & v3)](https://wordpress.org/plugins/advanced-nocaptcha-recaptcha/)
